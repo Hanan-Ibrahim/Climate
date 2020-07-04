@@ -7,7 +7,7 @@ A dark-mode enabled weather app.  With this app in your pocket you'll be able to
     <td> • Permission </td>
   </tr> 
   <tr>
-    <td> <img src="Images/ClimateGIF.gif" alt="1" width = 300px></td>
-    <td><img src="Images/ClimamtePermission.PNG" alt="2" width = 450px></td>
+    <td> <img src="Images/ClimateGIF.gif" alt="1" width = 350px></td>
+    <td><img src="Images/ClimatePermission.PNG" alt="2" width = 350px></td>
   </td>
   </tr>
